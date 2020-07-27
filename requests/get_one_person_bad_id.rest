@@ -1,0 +1,3 @@
+GET http://localhost:3001/api/persons/xxx
+
+// tästä tulisi seurata HTTP 400 , malformatted id
